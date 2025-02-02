@@ -1,3 +1,7 @@
-# flutter_kanada_app
+# flutter_kannada_app
 
-A new Flutter project.
+Learn Kannada language with explanation using Flash cards. 
+
+```
+$ flutter run --release
+```
