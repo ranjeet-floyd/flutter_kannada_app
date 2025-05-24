@@ -4,8 +4,10 @@ import 'dart:math';
 
 
 class FlashCardApp extends StatefulWidget {
+  const FlashCardApp({super.key});
+
   @override
-  _FlashCardAppState createState() => _FlashCardAppState();
+  State<FlashCardApp> createState() => _FlashCardAppState();
 }
 
 class _FlashCardAppState extends State<FlashCardApp> with SingleTickerProviderStateMixin {
